@@ -6,7 +6,7 @@ public class HelloGit {
 
 		System.out.println("show...cccc");
 		System.out.println("hello world");
-		System.out.println("11111111");
-		System.out.println("222222");
+	
+		
 	}
 }
