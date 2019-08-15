@@ -5,7 +5,7 @@ public class HelloGit {
 	public void show() {
 
 		System.out.println("show...cccc");
-
+		System.out.println("helloworld");
 
 	}
 }
