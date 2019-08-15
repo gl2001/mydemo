@@ -4,7 +4,8 @@ public class HelloGit {
 
 	public void show() {
 
-		System.out.println("show...aaa");
+		System.out.println("show...cccc");
 		System.out.println("hello world");
+
 	}
 }
